@@ -11,22 +11,33 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="abstract_type (v0.0.7, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="adamantium (v0.2.0, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.4.0, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="binding_ninja (v0.2.3, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.4, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concord (v0.1.5, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="equalizer (v0.0.11, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.10.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="formatador (v0.2.5, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="growl (v1.0.3, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="guard (v2.15.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="guard-compat (v1.2.1, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="guard-rspec (v4.7.3, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ice_nine (v0.11.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="libnotify (v0.9.4, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.1.5, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="lumberjack (v1.0.13, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="memoizable (v0.4.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v0.9.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nenv (v0.3.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="notiffany (v0.1.1, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parser (v2.7.1.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="power_assert (v1.1.4, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="proc_to_ast (v0.1.0, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="procto (v0.0.3, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pry (v0.12.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.10.3, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.10.0, rbenv: 2.7.1) [gem]" level="application" />
@@ -35,10 +46,13 @@
     <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.8.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.8.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.8.0, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-parameterized (v0.4.2, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-power_assert (v1.1.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.8.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby_dep (v1.5.0, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="shellany (v0.0.1, rbenv: 2.7.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.20.3, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, rbenv: 2.7.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unparser (v0.4.7, rbenv: 2.7.1) [gem]" level="application" />
   </component>
 </module>
